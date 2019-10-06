@@ -2,7 +2,7 @@
 
 Minecraft Version: `1.12.2`
 
-[Forge 14.23.5.2803](http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2803/forge-1.12.2-14.23.5.2803-installer.jar)
+Forge Version: [14.23.5.2803](http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.12.2-14.23.5.2803/forge-1.12.2-14.23.5.2803-installer.jar)
 
 If you have Git installed: ```git clone https://github.com/Pelvicious-Sag/minecraft-mods.git .```
 
