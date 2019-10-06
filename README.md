@@ -6,7 +6,7 @@ Minecraft Version: `1.12.2`
 
 If you have Git installed: ```git clone https://github.com/Pelvicious-Sag/minecraft-mods.git .```
 
-!!NOTE REGARDING BIOMES O PLENTY!!
+!!NOTE REGARDING BIOMES O PLENTY!! (This only applies to the server)
 
 You must use the Biomes O' Plenty world type when creating a world for biomes to generate! 
 
